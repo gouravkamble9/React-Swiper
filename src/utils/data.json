@@ -1,0 +1,64 @@
+
+
+[
+    {
+        "id": 1,
+        "author": "John Doe",
+        "designation": "CEO, Company X",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at ligula et mauris consectetur vestibulum eget eget mauris."
+      },
+      {
+        "id": 2,
+        "author": "Jane Smith",
+        "designation": "CTO, Company Y",
+        "message": "Sed ultricies orci vel efficitur dignissim. Proin sodales odio non nisl molestie, in dictum lacus venenatis."
+      },
+      {
+        "id": 3,
+        "author": "Alice Johnson",
+        "designation": "Marketing Director, Company Z",
+        "message": "Fusce vitae quam id elit pulvinar interdum. Nulla facilisi. Vivamus nec nisi vitae velit bibendum pretium."
+      },
+      {
+        "id": 4,
+        "author": "David Williams",
+        "designation": "Head of Operations, Company A",
+        "message": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer maximus sagittis justo, eget aliquam quam interdum in."
+      },
+      {
+        "id": 5,
+        "author": "Emily Brown",
+        "designation": "Senior Developer, Company B",
+        "message": "Maecenas ullamcorper, odio a ultrices finibus, libero ex placerat neque, ut interdum est neque non metus."
+      },
+      {
+        "id": 6,
+        "author": "Michael Garcia",
+        "designation": "Product Manager, Company C",
+        "message": "Vestibulum id metus sit amet mi auctor lacinia ut eget turpis. Duis facilisis libero et odio tincidunt, quis congue urna consequat."
+      },
+      {
+        "id": 7,
+        "author": "Sophia Rodriguez",
+        "designation": "HR Manager, Company D",
+        "message": "Curabitur euismod justo sit amet arcu ultricies, a malesuada ipsum hendrerit. Nulla facilisi. Duis at gravida quam."
+      },
+      {
+        "id": 8,
+        "author": "Oliver Wilson",
+        "designation": "Sales Executive, Company E",
+        "message": "Aenean tincidunt consequat odio, vel vehicula turpis blandit in. Integer nec libero sed libero vulputate efficitur."
+      },
+      {
+        "id": 9,
+        "author": "Isabella Martinez",
+        "designation": "Finance Analyst, Company F",
+        "message": "Ut a ex at tellus vehicula posuere. In convallis dolor et libero rutrum, eu commodo urna tincidunt."
+      },
+      {
+        "id": 10,
+        "author": "Lucas Thompson",
+        "designation": "Customer Support, Company G",
+        "message": "Phasellus ac metus consequat, maximus sem in, fermentum mi. Sed at mauris ut justo ultrices egestas."
+      }
+]
