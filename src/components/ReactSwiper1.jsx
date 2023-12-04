@@ -17,7 +17,7 @@ export default function ReactSwiper1() {
         {
            data1.map((item,id)=>(
 
-               <SwiperSlide>
+               <SwiperSlide key={id}>
                 <img src={item.img} alt="img" style={{width:"400px"}}/>
                </SwiperSlide>
            )) 
