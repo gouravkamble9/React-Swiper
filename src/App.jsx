@@ -3,6 +3,7 @@ import './App.css'
 import ReactSwiper from './components/ReactSwiper'
 import ReactSwiper1 from './components/ReactSwiper1'
 import AutoSwiper from './components/AutoSwiper/AutoSwiper'
+import ParallaxSwiper from './components/parallaxSwiper/ParallaxSwiper'
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <ReactSwiper/>
       <ReactSwiper1/>
       <AutoSwiper/>
+      <ParallaxSwiper/>
       </div>
     </div>
   )
