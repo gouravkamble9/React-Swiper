@@ -23,14 +23,14 @@ const ParallaxSwiper = () => {
         }}
         navigation={true}
         modules={[Parallax, Pagination, Navigation]}
-        className="mySwiper"
+        className="mySwiperp"
       >
         <div
           slot="container-start"
           className="parallax-bg"
           style={{
             'background-image':
-              'url(https://swiperjs.com/demos/images/nature-1.jpg)',
+              'url(public/parall.jpeg)',
           }}
           data-swiper-parallax="-23%"
         ></div>
