@@ -6,6 +6,11 @@
   margin-top: 10px;
 }
 
+.parallax-bg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 .parallax-bg {
   position: absolute;
